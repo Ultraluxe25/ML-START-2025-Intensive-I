@@ -80,3 +80,19 @@ results = model("path/to/image.jpg")
 
 # Display results
 results.show()
+```
+
+### Dataset's article
+**Title:** [An Ensemble Deep Learning Method with Optimized Weights for Drone-Based Water Rescue and Surveillance](https://www.researchgate.net/publication/348800810_An_ensemble_deep_learning_method_with_optimized_weights_for_drone-based_water_rescue_and_surveillance)
+
+**Publication Date:** January 2021  
+**Journal:** Integrated Computer-Aided Engineering  
+**Volume:** 28  
+**Issue:** 4  
+**Pages:** 1–15  
+**DOI:** [10.3233/ICA-210649](https://doi.org/10.3233/ICA-210649)  
+
+**Authors:**  
+- Jan Gąsienica-Józkowy  
+- Mateusz Knapik  
+- Boguslaw Cyganek  
