@@ -2,6 +2,8 @@
 ![logo](images/intensive.png)
 ### Team project in hackathon style - multi class image classification and detection
 
+---
+
 # AFO Aerial Dataset of Floating Objects
 ![dataset](images/dataset.png)
 **Dataset Link:** [AFO Aerial Dataset of Floating Objects](https://www.kaggle.com/datasets/jangsienicajzkowy/afo-aerial-dataset-of-floating-objects)
@@ -82,7 +84,9 @@ results = model("path/to/image.jpg")
 results.show()
 ```
 
-### Dataset's article
+---
+
+## Dataset's article
 **Title:** [An Ensemble Deep Learning Method with Optimized Weights for Drone-Based Water Rescue and Surveillance](https://www.researchgate.net/publication/348800810_An_ensemble_deep_learning_method_with_optimized_weights_for_drone-based_water_rescue_and_surveillance)
 
 **Publication Date:** January 2021  
